@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# SAMI-NPC specific ignores
+*.gguf
+*.so
+*.dll
+*.dylib
+build/
+.sconsign.dblite
