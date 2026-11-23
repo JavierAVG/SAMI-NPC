@@ -1,0 +1,3 @@
+[submodule "core/model_adapter/third_party/llama.cpp"]
+	path = core/model_adapter/third_party/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp.git
